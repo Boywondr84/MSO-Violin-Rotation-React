@@ -1,14 +1,14 @@
 /* get violinist form */
 .getVln {
   display: inline-flex;
-  margin-left: 20%;
+  margin-left: 22%;
   padding-bottom: 43px;
 }
 
 .getVln label {
   padding-right: 0.5em;
   margin-top: 5px;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 #get-violinist-select {
@@ -21,6 +21,6 @@
 }
 
 .getVln button {
-  margin-left: 10px;
-  margin-right: 25px;
+  margin-left: 52px;
+  margin-right: 130px;
 }

@@ -7,7 +7,7 @@
 }
 
 .formGroupAdd {
-  margin-left: 15%;
+  margin-left: 10%;
 }
 
 .formGroupAdd label {
@@ -20,7 +20,8 @@
   margin-top: 25px;
   margin-bottom: 20px;
   margin-left: 10px;
-  font-size: 16px;
+  font-size: 22px;
+  text-align: center;
 }
 
 /* Add violinist form */
