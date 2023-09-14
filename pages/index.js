@@ -3,6 +3,7 @@ import Header from "../components/header";
 import AddViolin from "@/components/addViolinForm";
 import SelectViolin from "@/components/selectViolinForm";
 import UpdateViolin from "@/components/updateViolinForm";
+import GetViolinData from "@/components/violinData";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <AddViolin />
       <SelectViolin />
       <UpdateViolin />
+      <GetViolinData />
     </>
   );
 }

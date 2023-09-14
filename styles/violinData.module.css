@@ -1,0 +1,13 @@
+.tableDisplay {
+  background-color: #f8efed;
+  margin-top: 20px;
+}
+
+.table th {
+  font-size: 20px;
+  height: 50px;
+}
+
+.Danger {
+  background-color: rgb(65, 243, 65);
+}

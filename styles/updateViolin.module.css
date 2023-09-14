@@ -26,6 +26,9 @@
 .updateVlnData input {
   width: 6%;
   margin-left: 10px;
+  height: 40px;
+  font-size: 22px;
+  text-align: center;
 }
 
 .updateBtns {
