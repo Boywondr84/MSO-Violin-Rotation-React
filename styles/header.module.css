@@ -1,0 +1,22 @@
+.header {
+  margin-bottom: 70px;
+}
+
+.header img {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.header h1 {
+  background-color: #2f236b;
+  color: white;
+  height: 214px;
+  padding: 84px 240px 51px 100px;
+  text-align: center;
+  font-size: 36px;
+  letter-spacing: 1.7px;
+  word-spacing: 6px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: inline-flex;
+  position: absolute;
+}

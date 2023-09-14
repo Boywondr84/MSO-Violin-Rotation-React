@@ -1,0 +1,31 @@
+.inputForms {
+  border-top: 15px solid black;
+  border-bottom: 6px solid black;
+  margin-top: 40px;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-bottom: 20px;
+}
+
+.formGroupAdd {
+  margin-left: 15%;
+}
+
+.formGroupAdd label {
+  margin-left: 10px;
+  font-size: 22px;
+}
+
+.formGroupAdd input {
+  height: 2rem;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+/* Add violinist form */
+.addVlnBtn {
+  display: inline-flex;
+  margin-left: 15px;
+}

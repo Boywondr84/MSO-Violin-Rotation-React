@@ -1,3 +1,24 @@
+.header {
+  margin-bottom: 70px;
+}
+
+.header img {
+  margin-left: 18px;
+  margin-right: 100px;
+}
+
+.header h1 {
+  background-color: #2f236b;
+  color: white;
+  height: 214px;
+  padding: 84px 120px 51px 100px;
+  text-align: center;
+  word-spacing: 3px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: inline-flex;
+  position: absolute;
+}
+
 .main {
   display: flex;
   flex-direction: column;
@@ -97,7 +118,7 @@
 
 .center::before,
 .center::after {
-  content: '';
+  content: "";
   left: 50%;
   position: absolute;
   filter: blur(45px);
