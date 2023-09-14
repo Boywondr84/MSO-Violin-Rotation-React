@@ -1,6 +1,8 @@
 import Head from "next/head";
 import Header from "../components/header";
 import AddViolin from "@/components/addViolinForm";
+import SelectViolin from "@/components/selectViolinForm";
+import UpdateViolin from "@/components/updateViolinForm";
 
 export default function Home() {
   return (
@@ -12,6 +14,8 @@ export default function Home() {
       </Head>
       <Header />
       <AddViolin />
+      <SelectViolin />
+      <UpdateViolin />
     </>
   );
 }

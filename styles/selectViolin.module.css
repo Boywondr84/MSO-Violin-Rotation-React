@@ -1,0 +1,26 @@
+/* get violinist form */
+.getVln {
+  display: inline-flex;
+  margin-left: 20%;
+  padding-bottom: 43px;
+}
+
+.getVln label {
+  padding-right: 0.5em;
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+#get-violinist-select {
+  height: 2rem;
+  margin-top: 10px;
+}
+
+#get-violinist-select option {
+  text-align: center;
+}
+
+.getVln button {
+  margin-left: 10px;
+  margin-right: 25px;
+}

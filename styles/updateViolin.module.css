@@ -1,0 +1,42 @@
+/* UPDATE Form */
+.updateVlnData {
+  margin-top: 30px;
+  margin-left: 8%;
+  margin-right: 8%;
+  border-top: 6px solid black;
+}
+
+.updateVlnData button {
+  border-radius: 12px;
+  float: right;
+  margin-bottom: 64px;
+  margin-right: 20px;
+}
+
+.updateVlnData p {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 48px;
+  margin-top: 26px;
+  margin-bottom: 38px;
+  font-size: 20px;
+}
+
+.updateVlnData input {
+  width: 6%;
+  margin-left: 10px;
+}
+
+.updateBtns {
+  display: inline-block;
+  margin-left: 30%;
+}
+
+.updateBtns button {
+  margin-right: 30px;
+}
+
+.hidden {
+  display: none;
+}
